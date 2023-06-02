@@ -135,12 +135,12 @@ After deploying, your new React site will automatically be assigned a `.vercel.a
 
 ### Support
 Its our pleasure to serve our service and support. please contact our support team.
-Head of Customer Support: [Telegram][support.telegram]
+Head of Customer Support: [mail][support.mail]
 Typically we reply our customers for all the questions and queries within 24 hours of time via comments, support forum or emails.
 
 Thank you very much.
 
-[support.telegram]: <https://t.me/duckmetr>
+[support.mail]: <kemalcanmail@gmail.com>
 [node.download]: <https://nodejs.org/en/download>
 [vscode.download]: <https://code.visualstudio.com/download>
 
